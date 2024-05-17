@@ -54,9 +54,9 @@ cd oop-assignment
 
 
 # Conclusion
--This project is a comprehensive demonstration of my ability to apply object-oriented 
- programming concepts in Java. It involves creating a complex system with multiple endpoints 
- that handle user authentication, post management, and comment management, showcasing my proficiency in building and managing a robust backend system.
+This project is a comprehensive demonstration of my ability to apply object-oriented 
+programming concepts in Java. It involves creating a complex system with multiple endpoints 
+that handle user authentication, post management, and comment management, showcasing my proficiency in building and managing a robust backend system.
 
 Thank you for visiting my repository. Feel free to explore the code and provide any feedback!
 
